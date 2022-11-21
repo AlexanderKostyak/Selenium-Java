@@ -9,6 +9,7 @@ Very useful API for multiple webdrivers.  The selenium jar file is older, but st
 https://chromedriver.chromium.org/downloads
 
 https://www.selenium.dev/downloads/
+
 https://www.selenium.dev/selenium/docs/api/java/org/openqa/selenium/WebDriver.html
 
 https://www.youtube.com/watch?v=mubp5nIz4Ec&list=PL1EXBjpJAZJdDsIWvPUiG9c0jYje-oGIg&ab_channel=AjKostyak
